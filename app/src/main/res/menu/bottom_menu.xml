@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Projects"
+        android:id="@+id/projectsFragment"
+        android:icon="@drawable/baseline_computer_24"/>
+
+    <item android:title="Add Employees"
+        android:id="@+id/addEmployeesFragment"
+        android:icon="@drawable/baseline_person_add_24"/>
+
+    <item android:title="Manufacturer"
+        android:id="@+id/adminManufactringFragment"
+        android:icon="@drawable/baseline_precision_manufacturing_24"/>
+
+    <item android:title="Profile"
+        android:id="@+id/adminProfileFragment"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
+    <item android:title="More Options"
+        android:id="@+id/adminMoreFragment"
+        android:icon="@drawable/baseline_more_horiz_24"/>
+</menu>

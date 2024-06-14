@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#00BCD4</color>
+    <color name="purple">#9C27B0</color>
+    <color name="light_purple">#62286C</color>
+    <color name="grey">#615C61</color>
+    <color name="app_bgcolor">#FBFBFB</color>
+    <color name="orange">#FF5722</color>
+    <color name="red">#F44336</color>
+    <color name="yellow">#FFC107</color>
+    <color name="dark_blue">#001AFF</color>
+    <color name="inactive_color">#5E4ECA</color>
+    <color name="bottom_bg_color">#432FBE</color>
+
+
+</resources>
